@@ -129,6 +129,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting and bookkeeping software.
 - [Xero](https://www.xero.com/) – Cloud-based accounting platform for SMBs.
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and accounting for small businesses.
+- [Invompt](https://invompt.com/) – Turn AI-host work into invoices you review before send — Continue as guest or OAuth via hosted MCP at https://mcp.invompt.com/mcp.
 - [Wave](https://www.waveapps.com/) – Free accounting and invoicing tools.
 - [TaxJar](https://www.taxjar.com/) – Automated sales tax calculation and filing.
 
